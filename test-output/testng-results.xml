@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-19T21:30:28 IST" name="Default suite" finished-at="2021-09-19T21:30:55 IST" duration-ms="26110">
+    <groups>
+    </groups>
+    <test started-at="2021-09-19T21:30:28 IST" name="Default test" finished-at="2021-09-19T21:30:55 IST" duration-ms="26110">
+      <class name="Test.LoginPageTest">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:Test.LoginPageTest@4f209819]" started-at="2021-09-19T21:30:28 IST" name="BrowserSetup" finished-at="2021-09-19T21:30:42 IST" duration-ms="13054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TestingLoginPage()[pri:0, instance:Test.LoginPageTest@4f209819]" started-at="2021-09-19T21:30:42 IST" name="TestingLoginPage" finished-at="2021-09-19T21:30:55 IST" duration-ms="13001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingLoginPage -->
+      </class> <!-- Test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
